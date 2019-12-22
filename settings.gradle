@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':view-measure'
 rootProject.name='ViewMeasureBenchmark'
